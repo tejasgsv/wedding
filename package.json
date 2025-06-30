@@ -1,0 +1,13 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "description": "Beautiful Wedding Invitation Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "start index.html",
+    "deploy": "deploy.bat"
+  },
+  "keywords": ["wedding", "invitation", "website"],
+  "author": "Wedding Couple",
+  "license": "MIT"
+}
